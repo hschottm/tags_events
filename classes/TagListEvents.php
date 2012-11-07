@@ -10,7 +10,7 @@ namespace Contao;
  * @author     Helmut Schottmüller <typolight@aurealis.de>
  * @package    Controller
  */
-class TagListEvents extends \TagList
+class TagListEvents extends TagList
 {
 	protected $arrCalendars = array();
 	
